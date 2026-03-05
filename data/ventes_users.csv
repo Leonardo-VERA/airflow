@@ -1,0 +1,12 @@
+product_id,product_name,revenue,cost,user_name,user_age,purchase_date,purchase_quantity
+101,Produit A,1000,800,Alice,25,2024-06-01,2
+102,Produit B,2000,1500,Bob,30,2024-06-02,3
+103,Produit C,1500,1200,Charlie,28,2024-06-03,1
+104,Produit D,3000,2500,David,35,2024-06-04,4
+105,Produit E,1800,1400,Eve,22,2024-06-05,2
+106,Produit F,NaN,900,Frank,40,2024-06-06,1
+107,Produit G,2200,1700,Grace,27,2024-06-07,3
+108,Produit H,2400,1900,Hannah,32,2024-06-08,2
+109,Produit I,2800,2000,Ian,29,2024-06-09,5
+110,Produit J,3100,2700,Jack,31,2024-06-10,2
+

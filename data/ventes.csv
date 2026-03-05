@@ -1,0 +1,11 @@
+product_id,product_name,revenue,cost
+101,Produit A,1000,800
+102,Produit B,2000,1500
+103,Produit C,1500,1200
+104,Produit D,3000,2500
+105,Produit E,1800,1400
+106,Produit F,NaN,900
+107,Produit G,2200,1700
+108,Produit H,2400,1900
+109,Produit I,2800,2000
+110,Produit J,3100,2700

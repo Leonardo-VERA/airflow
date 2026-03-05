@@ -1,0 +1,6 @@
+echo "__pycache__/
+*.pyc
+*.pyo
+logs/
+config/airflow.cfg
+.env" > .gitignore
