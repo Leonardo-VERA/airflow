@@ -22,6 +22,10 @@ def extract_and_transform():
     
     print("Données transformées :")
     print(data)
+    
+    output_path = '/opt/airflow/output/results_tp_1/result.csv'
+    data.to_csv(output_path, index=False)
+    print(f"Fichier sauvegardé : {output_path}")
 
 with DAG(
     dag_id='etl_pipeline_example',
@@ -38,3 +42,4 @@ with DAG(
         task_id='extract_and_transform',
         python_callable=extract_and_transform
     )
+
